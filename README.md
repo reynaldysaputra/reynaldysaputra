@@ -1,11 +1,9 @@
 ### Hi 👋, I'm Reynaldy Saputra
 
-Here are some ideas to get you started:
+A passionate front end web developer from Jakarta, Indonesia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... Redux
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning Redux
 - 💬 Ask me about React, Redux, Material-UI and Firebase.
-- 📫 How to reach me: ... renalfrontend@gmail.com
+- 👨‍💻 All of my projects are available at https://furniture-home.web.app/
+- 📫 How to reach me: renalfrontend@gmail.com
 - ⚡ Fun fact I think I am funny

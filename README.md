@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Reynaldy Saputra
 
-A passionate front end web developer from Jakarta, Indonesia
+A passionate software engineer from Jakarta, Indonesia
 
 - 🌱 I’m currently learning Redux
 - 💬 Ask me about React, Redux, And Material-UI

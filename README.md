@@ -2,7 +2,7 @@
 
 A passionate software engineer from Jakarta, Indonesia
 
-- 🌱    I’m currently learning Redux
+- 🌱    I’m currently learning Reduxx
 - 💬    Ask me about React, Redux, And Material-UI
 - 💻    All of my projects are available at https://renalfrontdev.web.app/
 - 📫    How to reach me: renalfrontend@gmail.com

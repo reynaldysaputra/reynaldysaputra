@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Reynaldy Saputra
 
-A passionate software engineer from Jakarta, Indonesia
+A passionate front end developer from Jakarta, Indonesia
 
 - 🌱    I’m currently learning Firebase
 - 💬    Ask me about React, Redux, Material-UI, And Firebase

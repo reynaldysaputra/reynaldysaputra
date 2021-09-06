@@ -6,4 +6,4 @@ A passionate front end developer from Jakarta, Indonesia
 - 💬    Ask me about React, Redux, Tailwind CSS, And Firebase
 - 💻    All of my projects are available at https://renalfrontdev.web.app/
 - 📫    How to reach me: renalfrontend@gmail.com
-- ⚡     Fun fact I think I am funny
+- ⚡     Fun fact I think I am funny 

@@ -1,4 +1,4 @@
-### Hi 👋, I'm Reynaldy Saputra
+### Hi 👋, I'm Reynaldy Saputra 
 
 A passionate front end developer from Jakarta, Indonesia
 

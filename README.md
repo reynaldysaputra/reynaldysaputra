@@ -4,15 +4,16 @@ Hi 👋 My name is Reynaldy Saputra
 Front end Developer
 -------------------
 
-* 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [https://reynaldysaputra.com](http://reynaldysaputra.com)
-* ✉️  You can contact me at [renalfrontend@gmail.com](mailto:renalfrontend@gmail.com)
-* 🚀  I'm currently working on [australasia.com](http://australasia.com)
-* 🧠  I'm learning Typescript
-* ⚡  Fun fact I think I am funny
+* 🌍  I'm based in Indonesia
+* 🖥️  See my portfolio at [https://reynaldysaputra.com](http://reynaldysaputra.com)
+* ✉️  You can contact me at [renalfrontend@gmail.com](mailto:renalfrontend@gmail.com)
+* 🚀  I'm currently working on [australasia.com](http://australasia.com)
+* 🧠  I'm learning Typescript
+* ⚡  Fun fact I think I am funny
 
 <a href="https://www.github.com/reynaldysaputra" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/reynaldysaputra?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
 
 <p align="left">
@@ -34,13 +35,15 @@ src="https://img.shields.io/github/followers/reynaldysaputra?logo=github&style=f
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/reynaldysaputra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/reynaldysptr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/reynaldy-saputra-61330115a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/8720787/reynaldy-saputra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
+### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/reynaldysaputra"><img src="https://github-readme-stats.vercel.app/api?username=reynaldysaputra&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="reynaldysaputra's GitHub stats" /></a>
 
 <a href="http://www.github.com/reynaldysaputra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=reynaldysaputra&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-

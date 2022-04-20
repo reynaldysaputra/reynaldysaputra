@@ -4,15 +4,14 @@ Hi 👋 My name is Reynaldy Saputra
 Front end Developer
 -------------------
 
+A passionate front end developer from Jakarta, Indonesia
+
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [https://reynaldysaputra.com](http://reynaldysaputra.com)
 * ✉️  You can contact me at [renalfrontend@gmail.com](mailto:renalfrontend@gmail.com)
 * 🚀  I'm currently working on [australasia.com](http://australasia.com)
 * 🧠  I'm learning Typescript
 * ⚡  Fun fact I think I am funny
-
-<a href="https://www.github.com/reynaldysaputra" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/reynaldysaputra?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 

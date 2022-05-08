@@ -1,7 +1,7 @@
 Hi 👋 My name is Reynaldy Saputra
 =================================
 
-Front End Developer
+Front end Developer
 -------------------
 
 A passionate front end developer from Jakarta, Indonesia

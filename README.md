@@ -9,7 +9,7 @@ A passionate front end developer from Jakarta, Indonesia
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [https://reynaldysaputra.com](http://reynaldysaputra.com)
 * ✉️  You can contact me at [renalfrontend@gmail.com](mailto:renalfrontend@gmail.com)
-* 🚀  I'm currently working on [australasia.com](http://australasia.com)
+* 🚀  I'm currently working on [fitaja.id](https://www.fitaja.id/)
 * 🧠  I'm learning something amazing
 * ⚡  Fun fact I think I am funny
 
